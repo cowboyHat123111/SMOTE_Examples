@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\bin\Debug\net7.0\Even or Odd.exe
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\bin\Debug\net7.0\Even or Odd.deps.json
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\bin\Debug\net7.0\Even or Odd.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\bin\Debug\net7.0\Even or Odd.dll
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\bin\Debug\net7.0\Even or Odd.pdb
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\obj\Debug\net7.0\Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\obj\Debug\net7.0\Even or Odd.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\obj\Debug\net7.0\Even or Odd.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\obj\Debug\net7.0\Even or Odd.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\obj\Debug\net7.0\Even or Odd.dll
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\obj\Debug\net7.0\refint\Even or Odd.dll
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\obj\Debug\net7.0\Even or Odd.pdb
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\obj\Debug\net7.0\Even or Odd.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Even or Odd\Even or Odd\obj\Debug\net7.0\ref\Even or Odd.dll
